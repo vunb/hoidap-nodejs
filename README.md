@@ -5,6 +5,13 @@ Hỏi đáp về Nodejs, khóa học: Trọn bộ kiến thức về Nodejs
 * Lớp học Online: [http://bit.ly/khoahoc_nodejs](http://bit.ly/khoahoc_nodejs)
 * Diễn đàn AngularJS/NodeJS/JavaScript: [https://nodejs.vn](https://nodejs.vn)
 
+# Thành quả của học viên
+
+* Nam Nguyễn, [https://note-todos.herokuapp.com/](https://note-todos.herokuapp.com/)
+* Hiền Lâm, [https://lamhien195.github.io/](https://lamhien195.github.io/)
+* Trí Lê, [https://node-todos-trile.herokuapp.com/](https://node-todos-trile.herokuapp.com/)
+* ... bạn ?
+
 # angular-hoidap
 
 Mời các bạn tham gia khóa học: Trọn bộ kiến thức về AngularJS
